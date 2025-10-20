@@ -1,3 +1,27 @@
 [submodule "resources/[standalone]/bob74_ipl"]
 	path = resources/[standalone]/bob74_ipl
 	url = https://github.com/Bob74/bob74_ipl.git
+[submodule "resources/[standalone]/safecracker"]
+	path = resources/[standalone]/safecracker
+	url = https://github.com/qbox-project/safecracker
+[submodule "resources/[standalone]/mhacking"]
+	path = resources/[standalone]/mhacking
+	url = https://github.com/qbox-project/mhacking
+[submodule "resources/[standalone]/scully_emotemenu"]
+	path = resources/[standalone]/scully_emotemenu
+	url = https://github.com/Scullyy/scully_emotemenu
+[submodule "resources/[standalone]/ultra-voltlab"]
+	path = resources/[standalone]/ultra-voltlab
+	url = https://github.com/ultrahacx/ultra-voltlab
+[submodule "resources/[standalone]/informational"]
+	path = resources/[standalone]/informational
+	url = https://github.com/Qbox-project/informational
+[submodule "resources/[voice]/pma-voice"]
+	path = resources/[voice]/pma-voice
+	url = https://github.com/AvarianKnight/pma-voice
+[submodule "resources/[qbx]/qbx_core"]
+	path = resources/[qbx]/qbx_core
+	url = https://github.com/qbox-project/qbx_core
+[submodule "resources/[qbx]/qbx_vehicles"]
+	path = resources/[qbx]/qbx_vehicles
+	url = https://github.com/qbox-project/qbx_vehicles
