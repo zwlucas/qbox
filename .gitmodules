@@ -25,3 +25,147 @@
 [submodule "resources/[qbx]/qbx_vehicles"]
 	path = resources/[qbx]/qbx_vehicles
 	url = https://github.com/qbox-project/qbx_vehicles
+[submodule "resources/[qbx]/qbx_scoreboard"]
+	path = resources/[qbx]/qbx_scoreboard
+	url = https://github.com/qbox-project/qbx_scoreboard
+[submodule "resources/[qbx]/qbx_adminmenu"]
+	path = resources/[qbx]/qbx_adminmenu
+	url = https://github.com/qbox-project/qbx_adminmenu
+[submodule "resources/[qbx]/qbx_vehiclesales"]
+	path = resources/[qbx]/qbx_vehiclesales
+	url = https://github.com/qbox-project/qbx_vehiclesales
+[submodule "resources/[qbx]/qbx_vehicleshop"]
+	path = resources/[qbx]/qbx_vehicleshop
+	url = https://github.com/qbox-project/qbx_vehicleshop
+[submodule "resources/[qbx]/qbx_houserobbery"]
+	path = resources/[qbx]/qbx_houserobbery
+	url = https://github.com/qbox-project/qbx_houserobbery
+[submodule "resources/[qbx]/qbx_hud"]
+	path = resources/[qbx]/qbx_hud
+	url = https://github.com/qbox-project/qbx_hud
+[submodule "resources/[qbx]/qbx_seatbelt"]
+	path = resources/[qbx]/qbx_seatbelt
+	url = https://github.com/qbox-project/qbx_seatbelt
+[submodule "resources/[qbx]/qbx_management"]
+	path = resources/[qbx]/qbx_management
+	url = https://github.com/qbox-project/qbx_management
+[submodule "resources/[qbx]/qbx_weed"]
+	path = resources/[qbx]/qbx_weed
+	url = https://github.com/qbox-project/qbx_weed
+[submodule "resources/[qbx]/qbx_lapraces"]
+	path = resources/[qbx]/qbx_lapraces
+	url = https://github.com/qbox-project/qbx_lapraces
+[submodule "resources/[qbx]/qbx_garages"]
+	path = resources/[qbx]/qbx_garages
+	url = https://github.com/qbox-project/qbx_garages
+[submodule "resources/[qbx]/qbx_ambulancejob"]
+	path = resources/[qbx]/qbx_ambulancejob
+	url = https://github.com/qbox-project/qbx_ambulancejob
+[submodule "resources/[qbx]/qbx_medical"]
+	path = resources/[qbx]/qbx_medical
+	url = https://github.com/qbox-project/qbx_medical
+[submodule "resources/[qbx]/qbx_radialmenu"]
+	path = resources/[qbx]/qbx_radialmenu
+	url = https://github.com/qbox-project/qbx_radialmenu
+[submodule "resources/[qbx]/qbx_police"]
+	path = resources/[qbx]/qbx_police
+	url = https://github.com/qbox-project/qbx_police
+[submodule "resources/[qbx]/qbx_properties"]
+	path = resources/[qbx]/qbx_properties
+	url = https://github.com/qbox-project/qbx_properties
+[submodule "resources/[qbx]/qbx_vehiclekeys"]
+	path = resources/[qbx]/qbx_vehiclekeys
+	url = https://github.com/qbox-project/qbx_vehiclekeys
+[submodule "resources/[qbx]/qbx_mechanicjob"]
+	path = resources/[qbx]/qbx_mechanicjob
+	url = https://github.com/qbox-project/qbx_mechanicjob
+[submodule "resources/[qbx]/qbx_vineyard"]
+	path = resources/[qbx]/qbx_vineyard
+	url = https://github.com/qbox-project/qbx_vineyard
+[submodule "resources/[qbx]/qbx_scrapyard"]
+	path = resources/[qbx]/qbx_scrapyard
+	url = https://github.com/qbox-project/qbx_scrapyard
+[submodule "resources/[qbx]/qbx_towjob"]
+	path = resources/[qbx]/qbx_towjob
+	url = https://github.com/qbox-project/qbx_towjob
+[submodule "resources/[qbx]/qbx_streetraces"]
+	path = resources/[qbx]/qbx_streetraces
+	url = https://github.com/qbox-project/qbx_streetraces
+[submodule "resources/[qbx]/qbx_storerobbery"]
+	path = resources/[qbx]/qbx_storerobbery
+	url = https://github.com/qbox-project/qbx_storerobbery
+[submodule "resources/[qbx]/qbx_spawn"]
+	path = resources/[qbx]/qbx_spawn
+	url = https://github.com/qbox-project/qbx_spawn
+[submodule "resources/[qbx]/qbx_smallresources"]
+	path = resources/[qbx]/qbx_smallresources
+	url = https://github.com/qbox-project/qbx_smallresources
+[submodule "resources/[qbx]/qbx_recyclejob"]
+	path = resources/[qbx]/qbx_recyclejob
+	url = https://github.com/qbox-project/qbx_recyclejob
+[submodule "resources/[qbx]/qbx_diving"]
+	path = resources/[qbx]/qbx_diving
+	url = https://github.com/qbox-project/qbx_diving
+[submodule "resources/[qbx]/qbx_divegear"]
+	path = resources/[qbx]/qbx_divegear
+	url = https://github.com/qbox-project/qbx_divegear
+[submodule "resources/[qbx]/qbx_cityhall"]
+	path = resources/[qbx]/qbx_cityhall
+	url = https://github.com/qbox-project/qbx_cityhall
+[submodule "resources/[qbx]/qbx_truckrobbery"]
+	path = resources/[qbx]/qbx_truckrobbery
+	url = https://github.com/qbox-project/qbx_truckrobbery
+[submodule "resources/[qbx]/qbx_pawnshop"]
+	path = resources/[qbx]/qbx_pawnshop
+	url = https://github.com/qbox-project/qbx_pawnshop
+[submodule "resources/[qbx]/qbx_taxijob"]
+	path = resources/[qbx]/qbx_taxijob
+	url = https://github.com/qbox-project/qbx_taxijob
+[submodule "resources/[qbx]/qbx_busjob"]
+	path = resources/[qbx]/qbx_busjob
+	url = https://github.com/qbox-project/qbx_busjob
+[submodule "resources/[qbx]/qbx_newsjob"]
+	path = resources/[qbx]/qbx_newsjob
+	url = https://github.com/qbox-project/qbx_newsjob
+[submodule "resources/[qbx]/qbx_jewelery"]
+	path = resources/[qbx]/qbx_jewelery
+	url = https://github.com/qbox-project/qbx_jewelery
+[submodule "resources/[qbx]/qbx_bankrobbery"]
+	path = resources/[qbx]/qbx_bankrobbery
+	url = https://github.com/qbox-project/qbx_bankrobbery
+[submodule "resources/[qbx]/qbx_truckerjob"]
+	path = resources/[qbx]/qbx_truckerjob
+	url = https://github.com/qbox-project/qbx_truckerjob
+[submodule "resources/[qbx]/qbx_garbagejob"]
+	path = resources/[qbx]/qbx_garbagejob
+	url = https://github.com/qbox-project/qbx_garbagejob
+[submodule "resources/[qbx]/qbx_drugs"]
+	path = resources/[qbx]/qbx_drugs
+	url = https://github.com/qbox-project/qbx_drugs
+[submodule "resources/[qbx]/qbx_idcard"]
+	path = resources/[qbx]/qbx_idcard
+	url = https://github.com/Qbox-project/qbx_idcard
+[submodule "resources/[qbx]/qbx_binoculars"]
+	path = resources/[qbx]/qbx_binoculars
+	url = https://github.com/Qbox-project/qbx_binoculars
+[submodule "resources/[qbx]/qbx_carwash"]
+	path = resources/[qbx]/qbx_carwash
+	url = https://github.com/Qbox-project/qbx_carwash
+[submodule "resources/[qbx]/qbx_fireworks"]
+	path = resources/[qbx]/qbx_fireworks
+	url = https://github.com/Qbox-project/qbx_fireworks
+[submodule "resources/[qbx]/qbx_density"]
+	path = resources/[qbx]/qbx_density
+	url = https://github.com/Qbox-project/qbx_density
+[submodule "resources/[qbx]/qbx_customs"]
+	path = resources/[qbx]/qbx_customs
+	url = https://github.com/Qbox-project/qbx_customs
+[submodule "resources/[qbx]/qbx_chat_theme"]
+	path = resources/[qbx]/qbx_chat_theme
+	url = https://github.com/Qbox-project/qbx_chat_theme
+[submodule "resources/[npwd]/qbx_npwd"]
+	path = resources/[npwd]/qbx_npwd
+	url = https://github.com/Qbox-project/qbx_npwd
+[submodule "resources/[assets]/pillbox"]
+	path = resources/[assets]/pillbox
+	url = https://github.com/Lorenc95/pillbox
