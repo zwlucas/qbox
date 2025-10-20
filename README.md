@@ -1,5 +1,6 @@
 # QBox Basement
 
+If you don't like txAdmin, here is the solution
 A ready-to-use QBox base, using Git Submodules for simplified resource management.
 
 ## 📋 Features
