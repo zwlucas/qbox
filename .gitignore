@@ -1,2 +1,6 @@
 artifacts/
+alpine/
 cache/
+run.sh
+.replxx_history
+fx.tar.xz
